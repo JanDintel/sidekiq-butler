@@ -1,5 +1,5 @@
 module Sidekiq
-  class Butler
+  module Butler
     VERSION = '0.0.1'
   end
 end

@@ -1,6 +1,7 @@
 require 'sidekiq/butler/version'
+require 'sidekiq/butler/testing/test_workers'
 
 module Sidekiq
-  class Butler
+  module Butler
   end
 end
